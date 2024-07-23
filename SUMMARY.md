@@ -1,7 +1,8 @@
 # Table of contents
 
 * [punodwoɔ](README.md)
-* [機能](ji-neng.md)
+* [機能](ji-neng/README.md)
+  * [プール](ji-neng/pru.md)
 * [コントラクトアドレス一覧](kontorakutoadoresu.md)
 * [ユーザーガイド](yzgaido.md)
 * [貸借プール募集](pru.md)
