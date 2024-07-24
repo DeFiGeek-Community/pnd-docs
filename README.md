@@ -23,5 +23,5 @@ TXJP、wstETH、USDC、crvUSD、CJPY
 [pru.md](pru.md)
 {% endcontent-ref %}
 
-Discordコミュニティ\
+Discordコミュニティ（お問い合わせ先）\
 &#x20;[https://discord.com/channels/705052448418693180/1167369964286652436](https://discord.com/channels/705052448418693180/1167369964286652436)

@@ -2,8 +2,11 @@
 
 * [punodwoɔ](README.md)
 * [仕様](shi-yang/README.md)
-  * [プール](shi-yang/pru.md)
+  * [プール](shi-yang/pru/README.md)
+    * [プール概要](shi-yang/pru/pru.md)
+    * [プールのデータ解説](shi-yang/pru/prunodta.md)
   * [借入](shi-yang/jie-ru.md)
+  * [預入](shi-yang/yu-ru.md)
 * [コントラクトアドレス一覧](kontorakutoadoresu.md)
 * [ユーザーガイド](yzgaido.md)
 * [貸借プール募集](pru.md)
