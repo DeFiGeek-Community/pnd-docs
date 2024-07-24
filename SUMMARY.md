@@ -7,6 +7,8 @@
     * [プールのデータ解説](shi-yang/pru/prunodta.md)
   * [借入](shi-yang/jie-ru.md)
   * [預入](shi-yang/yu-ru.md)
+  * [利息（融資APR、預金APR）](shi-yang/li-xi-rong-zi-apr-yu-jin-apr.md)
+  * [報酬（PNDトークン）](shi-yang/pndtkun.md)
 * [コントラクトアドレス一覧](kontorakutoadoresu.md)
 * [ユーザーガイド](yzgaido.md)
 * [貸借プール募集](pru.md)
