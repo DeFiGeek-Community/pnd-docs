@@ -4,7 +4,7 @@ description: 借入について
 
 # 借入
 
-<figure><img src="../.gitbook/assets/Group 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 12 (1).png" alt=""><figcaption></figcaption></figure>
 
 ユーザーがプールに担保資産を預け入れることで、預け入れられているベース資産を借り入れることができます。
 
