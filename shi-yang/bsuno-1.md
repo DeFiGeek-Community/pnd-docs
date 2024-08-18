@@ -1,8 +1,8 @@
 ---
-description: 預入について
+description: ベース資産の預入について
 ---
 
-# 預入
+# ベース資産の預入
 
 <figure><img src="../.gitbook/assets/Group 15.png" alt=""><figcaption></figcaption></figure>
 
