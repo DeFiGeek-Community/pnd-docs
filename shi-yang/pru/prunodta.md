@@ -22,13 +22,15 @@ description: 各種データの解説
 
 </div>
 
-supply kinkについてはドキュメントの預入のページご覧ください。&#x20;
+supply kinkについてはドキュメントの利息のページご覧ください。&#x20;
 
 ## 実質預金APR
 
 預金APR + PNDボーナス APRで算出されています。
 
+{% hint style="info" %}
 APRは、Annual Percentage Rate（年換算利回り）の略語で、単利計算です。
+{% endhint %}
 
 ## 実質融資APR
 
