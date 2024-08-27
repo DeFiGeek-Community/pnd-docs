@@ -6,7 +6,7 @@ description: ベース資産の借入について
 
 各プールに各ユーザーのベース資産の借入可能枠があり、担保入れていない状態ではこの枠はゼロです。
 
-<figure><img src="../.gitbook/assets/Group 20a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 20a (1).png" alt=""><figcaption></figcaption></figure>
 
 ユーザーがプールに担保資産を預け入れると、米ドルベースの担保価値に担保掛目が掛け合わされ、\
 その額だけベース資産の借入可能枠が増加します。
