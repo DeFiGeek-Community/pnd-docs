@@ -12,7 +12,9 @@ description: 各種データの解説
 
 プールに預け入れられた総ベース資産額に占めるベース資産の融資額の割合です。
 
+{% hint style="info" %}
 計算式：総融資 / 総預金 × 100&#x20;
+{% endhint %}
 
 預金融資率の枠にあるドーナツチャートは、supply kink-10%までは緑色、kinkまでは黄色、それ以降は赤色に変化します。
 
@@ -28,13 +30,13 @@ supply kinkについてはドキュメントの利息のページご覧くださ
 
 預金APR + PNDボーナス APRで算出されています。
 
-{% hint style="info" %}
-APRは、Annual Percentage Rate（年換算利回り）の略語で、単利計算です。
-{% endhint %}
-
 ## 実質融資APR
 
 &#x20;融資APR - PNDリワード APRで計算されます。&#x20;
+
+{% hint style="info" %}
+APRは、Annual Percentage Rate（年換算利回り）の略語で、単利計算です。
+{% endhint %}
 
 実質預金APR、実質融資APRは共にPND APRの変化に伴って、変動します。&#x20;
 
