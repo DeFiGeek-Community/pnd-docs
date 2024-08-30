@@ -4,7 +4,7 @@ description: ベース資産の借入について
 
 # ベース資産の借入
 
-各プールに各ユーザーのベース資産の借入可能枠があり、担保入れていない状態ではこの枠はゼロです。
+各プールに各ユーザーのベース資産の借入可能枠があり、担保を入れていない状態ではこの枠は0です。
 
 <figure><img src="../.gitbook/assets/Group 20a (1).png" alt=""><figcaption></figcaption></figure>
 
