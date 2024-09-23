@@ -13,7 +13,7 @@
     * [清算のケーススタディ](shi-yang/qing-suan/noksusutadi.md)
     * [ステータスバー](shi-yang/qing-suan/suttasub.md)
     * [関係式](shi-yang/qing-suan/guan-xi-shi.md)
-  * [利息（融資APR、預金APR）](shi-yang/li-xi-rong-zi-apr-yu-jin-apr.md)
+  * [金利（融資APR、預金APR）](shi-yang/jin-li-rong-zi-apr-yu-jin-apr.md)
   * [報酬（PNDトークン）](shi-yang/pndtkun.md)
 * [コントラクトアドレス一覧](kontorakutoadoresu.md)
 * [ユーザーガイド](yzgaido.md)

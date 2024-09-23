@@ -38,7 +38,7 @@ supply kinkについてはドキュメントの利息のページご覧くださ
 APRは、Annual Percentage Rate（年換算利回り）の略語で、単利計算です。
 {% endhint %}
 
-実質預金APR、実質融資APRは共にPND APRの変化に伴って、変動します。&#x20;
+実質預金APR、実質融資APRは共に、預金融資率とPND APRの変化に伴って、変動します。&#x20;
 
 ## 総預金、総融資、総担保
 

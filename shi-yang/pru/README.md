@@ -1,5 +1,5 @@
 ---
-description: プール全般
+description: プール全般について
 ---
 
 # プール
