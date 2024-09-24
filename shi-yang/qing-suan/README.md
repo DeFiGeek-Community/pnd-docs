@@ -1,5 +1,5 @@
 ---
-description: 清算について
+description: 清算とは
 ---
 
 # 清算

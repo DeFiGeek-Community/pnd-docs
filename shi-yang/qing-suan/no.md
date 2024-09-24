@@ -1,5 +1,5 @@
 ---
-description: 清算の役割について
+description: 清算の役割とは
 ---
 
 # 清算の役割
