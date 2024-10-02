@@ -19,7 +19,8 @@ description: ベース資産の借入の解説
 
 <figure><img src="../.gitbook/assets/Group 20.png" alt=""><figcaption></figcaption></figure>
 
-担保掛目は各プールの各担保資産に固有の値を割り当てておりますので、プール詳細ページでご確認ください。
+担保掛目は各プールの各担保資産に固有の値を割り当てておりますので、\
+プール詳細ページでご確認ください。
 
 <figure><img src="../.gitbook/assets/Group 13_1.png" alt=""><figcaption></figcaption></figure>
 

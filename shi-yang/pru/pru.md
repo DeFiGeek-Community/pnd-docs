@@ -4,13 +4,14 @@ description: プール概要
 
 # プール概要
 
-プールには1つのベース資産とペアになる複数の担保資産が設定されており、\
+各プールには1つのベース資産とペアになる複数の担保資産が設定されており、\
 プール一覧ページやプール詳細ページで確認できます。&#x20;
 
 <figure><img src="../../.gitbook/assets/Group 3.png" alt=""><figcaption></figcaption></figure>
 
 例えばCJPYプールは、\
-ベース資産がCJPY、担保資がTXJP、wstETH、USDC、crvUSDになっております。
+ベース資産がCJPY、\
+担保資がTXJP、wstETH、USDC、crvUSD、UNI、CRV、PNDになっています。
 
 <figure><img src="../../.gitbook/assets/Group 19.png" alt=""><figcaption></figcaption></figure>
 
