@@ -4,7 +4,7 @@ description: ユーティリティトークン
 
 # PND（pnd DAO Token）
 
-### <mark style="color:blue;">PNDとは？</mark> <a href="#usercontent-gai-yao" id="usercontent-gai-yao"></a>
+## <mark style="color:blue;">PNDとは？</mark> <a href="#usercontent-gai-yao" id="usercontent-gai-yao"></a>
 
 PND（pnd DAO Token）は、punodwoɔ Protocolに付随するユーティリティトークン（ERC20）です。
 
@@ -12,7 +12,7 @@ PND（pnd DAO Token）は、punodwoɔ Protocolに付随するユーティリテ�
 
 発行量は最終的に1,000,000,000に収束します。
 
-### <mark style="color:blue;">アロケーション</mark>
+## <mark style="color:blue;">アロケーション</mark>
 
 <figure><img src=".gitbook/assets/スクリーンショット 2024-08-31 14.14.47.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ vePND とはPNDをロックすることで得られる転送不可のトーク�
 
 ロック期間はいつでも最長4年まで延長できますが、短縮や解除をすることはできません。
 
-### <mark style="color:blue;">vePNDの用途</mark>
+## <mark style="color:blue;">vePNDの用途</mark>
 
 プロトコルfeeの獲得
 

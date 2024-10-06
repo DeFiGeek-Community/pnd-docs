@@ -12,5 +12,5 @@ description: （総括：利用は全て自己責任です。誰もユーザー�
    [Githubリンク（コントラクト）](https://github.com/DeFiGeek-Community/comet)\
    [Githubリンク（インターフェイス）](https://github.com/DeFiGeek-Community/comet-interface)
 6. 本Dappはあらゆる法域、国家等の保護下にはありません。
-7. 本Dappのアップグレード又は修正等はpnd DAO Token（PND）によるトークン投票ガバナンスによってその採否が決まります。あらゆるアイディアやコードの提案はOSSとして常に歓迎されます。
+7. 本Dappのアップグレード又は修正等は、pnd DAO Token（PND）をロックしたvePNDによるトークン投票ガバナンスによってその採否が決まります。veモデルについては、[こちら](pnd-pnd-dao-token.md#vepndtoha)をご覧ください。あらゆるアイディアやコードの提案はOSSとして常に歓迎されます。
 8. 本Dappと相互作用する拡張的なプロトコルは「７」でのトークン投票ガバナンスの適用外であり、開発は自由です（コントラクトをwrapして拡張したDapp等）。
