@@ -8,6 +8,7 @@
   * [ベース資産の借入](shi-yang/bsuno.md)
   * [ベース資産の預入](shi-yang/bsuno-1.md)
   * [清算](shi-yang/qing-suan/README.md)
+    * [清算とは](shi-yang/qing-suan/toha.md)
     * [清算の役割](shi-yang/qing-suan/no.md)
     * [清算プロセス](shi-yang/qing-suan/purosesu.md)
     * [清算のケーススタディ](shi-yang/qing-suan/noksusutadi.md)
