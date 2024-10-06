@@ -1,9 +1,6 @@
 ---
-description: プール全般について
+description: プール
 ---
 
 # プール
 
-## [プール概要](pru.md)
-
-## [プールのデータ解説](prunodta.md)
