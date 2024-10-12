@@ -22,7 +22,7 @@
   * [画面構成](yzgaido/hua-mian-gou-cheng/README.md)
     * [ヘッダー](yzgaido/hua-mian-gou-cheng/hedd.md)
     * [フッター](yzgaido/hua-mian-gou-cheng/futt.md)
-  * [ログイン方法](yzgaido/roguin.md)
+  * [ウォレット接続・切断方法](yzgaido/woretto.md)
   * [担保資産の預け入れ方法](yzgaido/nokere.md)
   * [ベース資産の借入方法](yzgaido/bsuno.md)
   * [ベース資産の預け入れ方法](yzgaido/bsunokere.md)
