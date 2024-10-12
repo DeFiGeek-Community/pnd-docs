@@ -15,3 +15,10 @@ layout:
 
 # フッター
 
+<figure><img src="../../.gitbook/assets/Group 30a.png" alt=""><figcaption></figcaption></figure>
+
+①　Docsへのリンク
+
+②　[GitHubへのリンク](https://github.com/DeFiGeek-Community/)
+
+③　[Discordへのリンク](https://discord.com/invite/FQYXqVBEnh)
