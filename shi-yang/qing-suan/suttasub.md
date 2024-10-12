@@ -11,11 +11,11 @@ description: ステータスバーの見方
 
 プールに担保資産を預け入れるまでは、以下のようなグレーのステータスバーが表示されます。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 担保資産を預け入れますと、以下のようなカラフルな斜線の入ったバーが表示されます。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 バーの外側の左の数字は借入額（上の図では $0.00 を表示）、\
 バーの外側の右の数字は清算閾値（上の図では $72.00 を表示）、\
