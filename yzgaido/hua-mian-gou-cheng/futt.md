@@ -17,7 +17,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/Group 30a.png" alt=""><figcaption></figcaption></figure>
 
-①　Docsへのリンク
+①　Docsへのリンク（このドキュメントへのリンク）
 
 ②　[GitHubへのリンク](https://github.com/DeFiGeek-Community/)
 

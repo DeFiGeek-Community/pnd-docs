@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# ログイン方法
+# ウォレット接続・切断方法
 
 ページ上部のヘッダーに「ウォレットを接続」と書かれたボタンがあります。
 
@@ -37,7 +37,7 @@ MetaMask、Rainbow、Coinbase Wallet、WalletConnectからお使いのウォレ�
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-10-12 15.44.56.png" alt=""><figcaption></figcaption></figure>
 
-「ウォレットを接続」のボタンが以下のようにアドレスの表示に変われば、接続完了です
+「ウォレットを接続」のボタンが以下のようにアドレスの表示に変われば、接続完了です🎉
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
