@@ -1,5 +1,5 @@
 ---
-description: ベース資産の預け入れ方法
+description: 担保資産の引き出し方法
 layout:
   title:
     visible: true
@@ -13,5 +13,5 @@ layout:
     visible: true
 ---
 
-# ベース資産の預け入れ方法
+# 担保資産の引出方法
 
