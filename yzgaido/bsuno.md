@@ -13,9 +13,11 @@ layout:
     visible: true
 ---
 
-# ベース資産の借入方法
+# ベース資産の借入・引出方法
 
 ウォレット接続後、担保資産が預け入れられた状態で、ベース資産の借入が可能になります。
+
+または、ベース資産の預金がある状態で、ベース資産の引出が可能になります。
 
 プール詳細ページのベース資産の行をクリックしてください。
 
@@ -25,11 +27,13 @@ layout:
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-10-13 21.42.19.png" alt=""><figcaption></figcaption></figure>
 
-引き出したいトークン量を入力欄に入力してください。
+借入・引出をしたいトークン量を入力欄に入力してください。
 
 融資可能な最大量を借り入れたい場合は、右端の「MAX」ボタンを押してください。
 
-融資APRを確認後、「送信」ボタンを押してください。
+預け入れたベース資産を全て引き出したい場合は、右端の「全額引出」ボタンを押してください。
+
+借入の場合は、融資APRを確認後、「送信」ボタンを押してください。
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-10-13 21.43.31.png" alt=""><figcaption></figcaption></figure>
 
@@ -43,6 +47,6 @@ layout:
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-10-13 21.27.35.png" alt=""><figcaption></figcaption></figure>
 
-しばらくして、プール詳細ページの所定の箇所が変化していれば、ベース資産の借入完了です！🎉
+しばらくして、プール詳細ページの所定の箇所が変化していれば、ベース資産の借入・引出完了です！🎉
 
-<figure><img src="../.gitbook/assets/Group 33a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 33c.png" alt=""><figcaption></figcaption></figure>

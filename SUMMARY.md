@@ -25,7 +25,7 @@
   * [ウォレット接続・切断方法](yzgaido/woretto.md)
   * [担保資産の預入方法](yzgaido/no.md)
   * [担保資産の引出方法](yzgaido/no-1.md)
-  * [ベース資産の借入方法](yzgaido/bsuno.md)
+  * [ベース資産の借入・引出方法](yzgaido/bsuno.md)
   * [ベース資産の預入・返済方法](yzgaido/bsuno-1.md)
 * [貸借プール募集](pru.md)
 * [PND（pnd DAO Token）](pnd-pnd-dao-token.md)
