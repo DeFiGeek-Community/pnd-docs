@@ -16,8 +16,10 @@ CJPY、USDC、crvUSD、WETH
 
 TXJP、wstETH、USDC、crvUSD、CJPY、UNI、CRV、PND
 
-新たな任意の貸借Poolの立ち上げ、担保資産の設定等も可能です。\
-&#x20;DeFiGeek Community 開発部がサポートいたしますので、ご相談ください。
+ご希望の方には、DeFiGeek Community 開発部のサポートの下、\
+新たな貸借Poolの立ち上げを無償で代行いたします。\
+以下の募集要項をご覧頂きまして、\
+Discordコミュニティ（お問い合わせ先）までお気軽にご相談ください。
 
 {% content-ref url="pru.md" %}
 [pru.md](pru.md)
