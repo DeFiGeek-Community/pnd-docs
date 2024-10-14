@@ -19,15 +19,17 @@ layout:
 
 PND（pnd DAO Token）は、punodwoɔ Protocolに付随するユーティリティトークン（ERC20）です。
 
-初期発行量450,000,000とし、1年目55,000,000、年次逓減10％で235年に渡って発行します。
+初期発行量450,000,000とし、550,000,000は利用者にリワードとして長期に渡って配布され、
 
-発行量は最終的に1,000,000,000に収束します。
+配布スピード（量）はオープンな議論によって調整可能です。
+
+総発行量は1,000,000,000です。
 
 ## <mark style="color:blue;">アロケーション</mark>
 
 <figure><img src=".gitbook/assets/スクリーンショット 2024-08-31 14.14.47.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="225" align="center">割合（％）</th><th align="center">名目</th><th align="center">備考</th></tr></thead><tbody><tr><td align="center">5</td><td align="center">開発者報酬</td><td align="center"></td></tr><tr><td align="center">5</td><td align="center">初期インベスター</td><td align="center">TXJPホルダーへのエアドロップ</td></tr><tr><td align="center">5</td><td align="center">DEX LP</td><td align="center">IAO１％、<br>UniswapTXJPpool１％、UniswapCJPYpool１％、<br>Curve２％</td></tr><tr><td align="center">5</td><td align="center">コミュニティトレジャリー</td><td align="center">defigeek.eth</td></tr><tr><td align="center">5</td><td align="center">初期ユーザーリワード</td><td align="center"></td></tr><tr><td align="center">10</td><td align="center">CurveLP用リワード</td><td align="center">年次2%ベスティング5年間</td></tr><tr><td align="center">10</td><td align="center">フェーズ2投資家用</td><td align="center">クリフ2年、3年目解放</td></tr><tr><td align="center">55</td><td align="center">ユーザーリワード</td><td align="center">初年度5.5% 年次10%逓減</td></tr></tbody></table>
+<table><thead><tr><th width="225" align="center">割合（％）</th><th align="center">名目</th><th align="center">備考</th></tr></thead><tbody><tr><td align="center">5</td><td align="center">開発者報酬</td><td align="center"></td></tr><tr><td align="center">5</td><td align="center">初期インベスター</td><td align="center">TXJPホルダーへのエアドロップ</td></tr><tr><td align="center">5</td><td align="center">DEX LP</td><td align="center">IAO１％、<br>UniswapTXJPpool１％、UniswapCJPYpool１％、<br>Curve２％</td></tr><tr><td align="center">5</td><td align="center">コミュニティトレジャリー</td><td align="center">defigeek.eth</td></tr><tr><td align="center">5</td><td align="center">初期ユーザーリワード</td><td align="center"></td></tr><tr><td align="center">10</td><td align="center">CurveLP用リワード</td><td align="center">年次2%ベスティング5年間</td></tr><tr><td align="center">10</td><td align="center">フェーズ2投資家用</td><td align="center">クリフ2年、3年目解放</td></tr><tr><td align="center">55</td><td align="center">ユーザーリワード</td><td align="center">貸借の奨励として長期に配布</td></tr></tbody></table>
 
 ## <mark style="color:blue;">vePNDとは？</mark>
 
