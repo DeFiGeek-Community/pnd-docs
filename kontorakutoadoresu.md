@@ -20,6 +20,10 @@ wstETH:  [0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0](https://etherscan.io/addre
 USDC:  [0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48)\
 crvUSD:  [0xf939e0a03fb07f59a73314e73794be0e57ac1b4e](https://etherscan.io/address/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e)\
 WETH:  [0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)\
+UNI: [0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984](https://etherscan.io/address/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984)\
+CRV: [0xD533a949740bb3306d119CC777fa900bA034cd52](https://etherscan.io/address/0xd533a949740bb3306d119cc777fa900ba034cd52)\
+PND: [0x5FFF1443Cb859E17e9a6786f7e24c369F22FD002](https://etherscan.io/address/0x5fff1443cb859e17e9a6786f7e24c369f22fd002)\
+scrvUSD: [0x0655977FEb2f289A4aB78af67BAB0d17aAb84367](https://etherscan.io/address/0x0655977feb2f289a4ab78af67bab0d17aab84367)\
 
 
 ## SEPOLIAテストネット

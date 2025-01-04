@@ -25,9 +25,9 @@ layout:
 
 例えばCJPYプールは、\
 ベース資産がCJPY、\
-担保資がTXJP、wstETH、USDC、crvUSD、UNI、CRV、PNDになっています。
+担保資がTXJP、wstETH、USDC、crvUSD、UNI、CRV、PND、scrvUSDになっています。
 
-<figure><img src="../../.gitbook/assets/Group 19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 34.png" alt=""><figcaption></figcaption></figure>
 
 ## 担保資産の吹き出し
 

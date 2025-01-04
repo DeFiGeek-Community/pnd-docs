@@ -14,7 +14,7 @@ CJPY、USDC、crvUSD、WETH
 
 ## 現在の担保資産
 
-TXJP、wstETH、USDC、crvUSD、CJPY、UNI、CRV、PND
+TXJP、wstETH、USDC、crvUSD、CJPY、UNI、CRV、PND、scrvUSD
 
 ご希望の方には、DeFiGeek Community 開発部のサポートの下、\
 新たな貸借Poolの立ち上げを無償で代行いたします。\
