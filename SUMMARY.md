@@ -2,7 +2,6 @@
 
 * [punodwoɔ](README.md)
 * [仕様](shi-yang/README.md)
-  * [Compound v3との違い](shi-yang/compound-v3tonoi.md)
   * [プール](shi-yang/pru/README.md)
     * [プール概要](shi-yang/pru/pru.md)
     * [プールのデータ解説](shi-yang/pru/prunodta.md)
