@@ -18,7 +18,7 @@
   * [報酬（PNDトークン）](shi-yang/pndtkun.md)
   * [金利と報酬の関係](shi-yang/tono/README.md)
     * [借入金利を報酬で相殺](shi-yang/tono/wode.md)
-    * [CJPYプールを例に](shi-yang/tono/cjpypruwoni.md)
+    * [報酬スピード決定の背景](shi-yang/tono/supdono.md)
     * [APRの算出方法](shi-yang/tono/aprno.md)
 * [コントラクトアドレス一覧](kontorakutoadoresu.md)
 * [ユーザーガイド](yzgaido/README.md)

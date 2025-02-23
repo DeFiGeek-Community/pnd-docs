@@ -1,9 +1,10 @@
 ---
+description: CJPYプールを例に
 layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -12,7 +13,7 @@ layout:
     visible: true
 ---
 
-# CJPYプールを例に
+# 報酬スピード決定の背景
 
 CJPYプールの報酬スピードは当初1日に5.2164PNDでした。&#x20;
 
