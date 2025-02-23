@@ -1,5 +1,5 @@
 ---
-description: Compound v3をフォークしたパーミッションレス貸借プロトコル
+description: パーミッションレス貸借プロトコル
 ---
 
 # punodwoɔ

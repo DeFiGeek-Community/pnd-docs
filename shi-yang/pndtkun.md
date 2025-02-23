@@ -38,7 +38,7 @@ kink未満では借り手に100％報酬が分配され、kink以降に貸し手
 
 預金融資率に応じた借り手、貸し手の分配比率は、各プール詳細ページの最下部に表示されています。
 
-<figure><img src="../.gitbook/assets/Group 27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 27 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## グラフの見方
 
