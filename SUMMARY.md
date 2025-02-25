@@ -15,7 +15,7 @@
     * [ステータスバー](shi-yang/qing-suan/suttasub.md)
     * [関係式](shi-yang/qing-suan/guan-xi-shi.md)
   * [金利（融資APR、預金APR）](shi-yang/jin-li-rong-zi-apr-yu-jin-apr.md)
-  * [報酬（PNDトークン）](shi-yang/pndtkun.md)
+  * [報酬トークン（PND）](shi-yang/tkunpnd.md)
   * [金利と報酬の関係](shi-yang/tono/README.md)
     * [借入金利を報酬で相殺](shi-yang/tono/wode.md)
     * [報酬スピード決定の背景](shi-yang/tono/supdono.md)
