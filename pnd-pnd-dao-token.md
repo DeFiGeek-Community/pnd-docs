@@ -25,6 +25,14 @@ PND（pnd DAO Token）は、punodwoɔ Protocolに付随するユーティリテ�
 
 総発行量は1,000,000,000です。
 
+
+
+ティッカー：PND
+
+コントラクトアドレス：[0x5fff1443cb859e17e9a6786f7e24c369f22fd002](https://etherscan.io/address/0x5fff1443cb859e17e9a6786f7e24c369f22fd002)
+
+DEXリンク：[https://www.curve.finance/dex/ethereum/pools/factory-tricrypto-50/deposit/](https://www.curve.finance/dex/ethereum/pools/factory-tricrypto-50/deposit/)
+
 ## <mark style="color:blue;">アロケーション</mark>
 
 <figure><img src=".gitbook/assets/スクリーンショット 2024-08-31 14.14.47.png" alt=""><figcaption></figcaption></figure>
