@@ -29,4 +29,4 @@ up to the reward kink supply utilization rate, <mark style="color:red;">100% of 
 
 and after that, they are allocated in a crossing pattern so that the ratio for borrowers and lenders adds up to 100%.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FuNLoxra9PqIeg8BlXyYs%2FGroup%2027.png?alt=media&#x26;token=370cae2f-d7af-4866-92ba-6164735e53b2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 35 (1).png" alt=""><figcaption></figcaption></figure>

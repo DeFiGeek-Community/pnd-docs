@@ -71,5 +71,5 @@ and when the cursor is over the graph, APRs based on the supply utilization rate
 
 {% hint style="info" %}
 Interest for borrowers is designed to be largely offset by PND rewards.\
-For details, please see the [PND rewards page](https://pnd-docs.defigeek.xyz/shi-yang/tkunpnd).
+For details, please see the [PND rewards page](reward-token-pnd.md).
 {% endhint %}

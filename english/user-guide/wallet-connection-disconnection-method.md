@@ -35,11 +35,11 @@ The following explanation uses MetaMask as an example.
 
 Select the account you want to connect and press the "Next" button.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FB1eOUkujVEe9yzVjmbtF%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-12%2015.41.10.png?alt=media&#x26;token=32514829-77e3-4507-badf-8775995f236f" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 36.png" alt=""><figcaption></figcaption></figure>
 
 On the next screen, press the "Confirm" button.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FKcrUOeTLAR8a7tNDhr2i%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-12%2015.44.56.png?alt=media&#x26;token=604c8840-560b-4d2f-a969-9b422b7f7545" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 37.png" alt=""><figcaption></figcaption></figure>
 
 If the "Connect Wallet" button changes to display an address as shown below, the connection is complete! 🎉
 
@@ -49,4 +49,4 @@ To disconnect, click on the address display above.
 
 Clicking the "Disconnect" button on the screen below completes the disconnection!
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2Fq1wm6D5yYSrhfyXdj21v%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-12%2015.49.49.png?alt=media&#x26;token=0d0097a6-172e-4b78-8914-dbf81317e5ed" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 38.png" alt=""><figcaption></figcaption></figure>

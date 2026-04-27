@@ -51,7 +51,7 @@ with 100% of rewards distributed to borrowers below kink, and rewards generated 
 
 The "distribution ratio for borrowers and lenders" according to supply utilization rate is displayed at the bottom of each pool detail page.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FfMHt4QWR6hUf41Og8mIp%2FGroup%2027.png?alt=media&#x26;token=0145781a-5547-4b3c-b798-9e5184fb16ae" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 35.png" alt=""><figcaption></figcaption></figure>
 
 ### How to Read the Graph
 

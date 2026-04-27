@@ -39,7 +39,7 @@ The deposit balance and borrow capacity after deposit are displayed below the in
 
 After entering the number of tokens, click the submit button.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2F1xIj05WgYIgnYVTRs68z%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-13%2017.38.45.png?alt=media&#x26;token=6ae6294c-d1cc-4f38-8d4f-a5941d554c22" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 39 (1).png" alt=""><figcaption></figcaption></figure>
 
 Please enter the number of tokens to allow the contract to operate in the input field (for MetaMask, the custom spending cap in the image below).
 
@@ -49,13 +49,13 @@ For security reasons, it is better to only allow the number of tokens you are de
 
 After entering, press the "Next" button.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FJGw6Rt2iWIXNbvn6jCiY%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-13%2016.21.19.png?alt=media&#x26;token=ed9ca6f2-5c84-4fca-a1e4-a61f04065f40" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 40.png" alt=""><figcaption></figcaption></figure>
 
 On the next screen, check the estimated fee (gas fee) and press the "Approve" button at an appropriate time.
 
 Please note that fees must be paid in ETH.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FvEkkkeH7zz8dOniRp3be%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-13%2016.43.03.png?alt=media&#x26;token=264bef81-11af-47e6-8ece-2273f506045a" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 41.png" alt=""><figcaption></figcaption></figure>
 
 After waiting a while for the request to complete, the following screen will be displayed.
 
@@ -69,13 +69,13 @@ Adjust the fee if necessary.
 
 ETH is also required here as a fee.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FLSJSMgXhVcCcJipauhAD%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-13%2017.43.13.png?alt=media&#x26;token=1e611af1-8122-4801-a905-aa010a345746" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 42.png" alt=""><figcaption></figcaption></figure>
 
 After waiting a while, a transaction completion screen will be displayed.
 
 Press the "Close Extension" button to close the popup screen.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FjluBhyHcNGRMwF5UxpVf%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-13%2017.43.29.png?alt=media&#x26;token=625d450b-87f6-4edd-a433-9e8e6f74837b" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 43.png" alt=""><figcaption></figcaption></figure>
 
 If the correct values are displayed in the designated location on the pool detail page, the collateral asset deposit is complete! 🎉
 

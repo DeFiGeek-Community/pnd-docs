@@ -37,7 +37,7 @@ The donut chart in the supply utilization rate section changes to green up to su
 
 <div align="center" data-full-width="true"><figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FDPwKKofMShN9CzwRZCJo%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-07-24%2020.58.34.png?alt=media&#x26;token=f9c34bd0-254b-4816-b81c-6c1e9f3a2a20" alt=""><figcaption></figcaption></figure></div>
 
-For supply kink, please see the [interest rates page](https://pnd-docs.defigeek.xyz/shi-yang/jin-li-rong-zi-apr-yu-jin-apr) in the documentation.
+For supply kink, please see the [interest rates page](../interest-rates-borrow-apr-deposit-apr.md) in the documentation.
 
 ### Effective Deposit APR
 
