@@ -21,3 +21,6 @@ For those interested, we offer free support for launching new lending pools unde
 [Pool Recruitment](pool-recruitment.md)
 
 Discord Community (Contact): [https://discord.com/channels/705052448418693180/1167369964286652436](https://discord.com/channels/705052448418693180/1167369964286652436)
+
+english general channel:\
+[https://discord.com/channels/705052448418693180/705290863353397338](https://discord.com/channels/705052448418693180/705290863353397338)
