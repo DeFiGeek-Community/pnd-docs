@@ -14,5 +14,5 @@ description: >-
    [Github link (contracts)](https://github.com/DeFiGeek-Community/comet)\
    [Github link (interface)](https://github.com/DeFiGeek-Community/comet-interface)
 6. This Dapp is not under the protection of any jurisdiction, country, etc.
-7. Upgrades or modifications to this Dapp are decided by token voting governance through vePND obtained by locking pnd DAO Token (PND). For the ve model, please see [here](https://pnd-docs.defigeek.xyz/pnd-pnd-dao-token#vepndtoha). All ideas and code proposals are always welcome as OSS.
+7. Upgrades or modifications to this Dapp are decided by token voting governance through vePND obtained by locking pnd DAO Token (PND). For the ve model, please see [here](pnd-pnd-dao-token.md#what-is-vepnd). All ideas and code proposals are always welcome as OSS.
 8. Extended protocols that interact with this Dapp are outside the scope of token voting governance in "7" and development is free (Dapps that wrap and extend contracts, etc.).

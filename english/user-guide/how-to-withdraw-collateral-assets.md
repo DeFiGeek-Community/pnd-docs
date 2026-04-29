@@ -37,7 +37,7 @@ If you want to withdraw all deposited collateral assets, press the "MAX" button 
 
 After entering the token amount, press the "Submit" button.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FvobkrNYRD0CivDXXxyHM%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-13%2022.36.20.png?alt=media&#x26;token=6fb0ed47-ff2a-442f-b2d8-ca2934b22d67" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 44 (1).png" alt=""><figcaption></figcaption></figure>
 
 Check the estimated fee (gas fee) and press the "Confirm" button at an appropriate time.
 
@@ -47,7 +47,7 @@ Adjust the fee if necessary.
 
 Fees must be paid in ETH.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FrxnXs2tNrI3Mc7DvLtnr%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-13%2022.39.53.png?alt=media&#x26;token=8f9696c9-c0fc-4186-af27-e37f050352d1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 45.png" alt=""><figcaption></figcaption></figure>
 
 After a while, if the designated location on the pool detail page has changed, the collateral asset withdrawal is complete! 🎉
 

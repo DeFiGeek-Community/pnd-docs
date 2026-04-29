@@ -39,7 +39,7 @@ If you want to withdraw all deposited base assets, press the "Withdraw All" butt
 
 For borrowing, after checking the borrow APR, press the "Submit" button.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2Fqmb4AhRfdw0VKaoxTCtQ%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-13%2021.43.31.png?alt=media&#x26;token=041ce95d-1d8c-4896-b73d-6ad8aac55d67" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 46.png" alt=""><figcaption></figcaption></figure>
 
 Check the estimated fee (gas fee) and press the "Confirm" button at an appropriate time.
 
@@ -49,7 +49,7 @@ Adjust the fee if necessary.
 
 Fees must be paid in ETH.
 
-<figure><img src="https://3990862584-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKP6SsdesCFe6jfgBhMAY%2Fuploads%2FHmpS6dJPAnTfeBxsPt57%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-13%2021.27.35.png?alt=media&#x26;token=8e94b7f8-5aa6-444-b2b8-76e509219635" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 47.png" alt=""><figcaption></figcaption></figure>
 
 After a while, if the designated location on the pool detail page has changed, the base asset borrow/withdrawal is complete! 🎉
 

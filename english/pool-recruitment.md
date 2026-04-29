@@ -24,7 +24,7 @@ When you need permissionless lending for crypto assets not supported by other le
 
 * Regarding item 3 above: The liquidation threshold and liquidation penalty must be set together to 100 or less.
 * Regarding item 3 above: Supply cap refers to the token supply limit. This is the total amount of collateral tokens that can be deposited into punodwoɔ as collateral. Limiting the acceptance amount as collateral enhances protocol security and benefits users. For high market cap tokens, approximately 1% of circulating supply is recommended, and for low market cap tokens, approximately 10% of circulating supply is recommended.
-* Regarding item 5 above: For the borrow side, it is important to determine the base rate (base interest rate at minimum utilization). It is recommended to set this using a simulator to ensure the protocol does not operate at a loss. Please refer to [this](https://docs.google.com/spreadsheets/d/1_IpUgY8VI5MRGzkIMTjnBmi_v5aZoLfTb1Q_BADpo5s/edit?gid=401406213#gid=401406213) as a reference. The protocol accumulates reserves through the difference between lending and borrowing interest rates, enabling more autonomous and sustainable operations. Reserves can also be used as a source of profit distribution.
+* Regarding item 5 above: For the borrow side, it is important to determine the base rate (base interest rate at minimum utilization). It is recommended to set this using a simulator to ensure the protocol does not operate at a loss. Please refer to [this](https://docs.google.com/spreadsheets/d/11nsgJ6tvmC3y81_NqqqwU4Kv9mzkBIooC7QqESWMx4U/edit?gid=1000488205#gid=1000488205) as a reference. The protocol accumulates reserves through the difference between lending and borrowing interest rates, enabling more autonomous and sustainable operations. Reserves can also be used as a source of profit distribution.
 
 ### Fees
 
@@ -35,3 +35,6 @@ After sharing the above decisions with DFGC, DFGC will deploy the pool contracts
 DFGC Development Team will provide full support, so please feel free to contact us with any questions or requests.\
 Please contact us through the Discord community below.\
 [https://discord.com/channels/705052448418693180/1167369964286652436](https://discord.com/channels/705052448418693180/1167369964286652436)
+
+english general channel:\
+[https://discord.com/channels/705052448418693180/705290863353397338](https://discord.com/channels/705052448418693180/705290863353397338)
